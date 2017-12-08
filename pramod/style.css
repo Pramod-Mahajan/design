@@ -1,0 +1,16 @@
+#navigation img{
+width:30%;
+}
+#center img{
+  width:100%;
+}
+#navigation li a{
+  font-size: 2rem;
+  colour:grey;
+  border-bottom:2px solid blue;
+   }
+#hide h3{
+  position: fixed;
+ font-family: 'Berkshire Swash', cursive; 
+  
+}
